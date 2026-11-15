@@ -1,5 +1,6 @@
 # CarCam 行车记录仪 - 通用版
 > 适配安卓9（API 28）车机的第三方行车记录仪APP，**通用版不包含厂商私有车控协议**，无品牌绑定，可用于绝大多数安卓9车机。
+<img width="1152" height="923" alt="14e4bcab0efff77a7abe1a16d21f686e" src="https://github.com/user-attachments/assets/91de96ff-8176-4aac-8af5-c4ee790730b4" />
 
 ## 📌 版本说明
 - 版本：通用版
